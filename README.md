@@ -17,7 +17,7 @@ Documentation: http://godoc.org/github.com/google/go-gcm
 
 ## Installation
 
-    $ go get github.com/google/go-gcm
+    $ go get github.com/logiclogic/go-gcm
 
 ## Status
 
